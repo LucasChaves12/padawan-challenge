@@ -84,6 +84,6 @@ mutation {
 
 ```graphql
 mutation {
-  deleteTask(id: 1)
+  deleteTask(id: 66)
 }
 ```
